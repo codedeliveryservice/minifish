@@ -1,0 +1,11 @@
+*.xz
+*.gz
+*.rearranged*
+*.o
+.depend
+stockfish*
+__pycache__
+*.prof*
+e
+e.7z
+*.tar
